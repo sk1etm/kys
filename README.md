@@ -1,0 +1,2 @@
+# kys
+keep yourself safe
